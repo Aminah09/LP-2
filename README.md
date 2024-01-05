@@ -1,5 +1,5 @@
 # LP-2
-SPPU Third Year IT LP-2 Artificial Intelligence Lab Assignments
+SPPU Third Year IT LP-2 Artificial Intelligence Lab Assignments.
 
 ## List of Assignments
 ### Group A <br>
